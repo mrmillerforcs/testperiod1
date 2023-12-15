@@ -3,5 +3,8 @@ public class Main {
         System.out.println("hello");
         System.out.println("womp womp");
         System.out.println("one more time!");
+        System.out.println("i have no idea what I'm doing");
+        System.out.println("idk maybe do yoga or something");
+        System.out.println("no");
     }
 }
