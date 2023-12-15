@@ -8,4 +8,8 @@ public class SomeClass {
     public void millerMethod() {
         System.out.println("period 1 rules!");
     }
+
+    public void printBanana() {
+        System.out.println("no");
+    }
 }
